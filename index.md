@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-![Banner](pugs.jpg)
+![My Image](pugs.jpg)
 
 # Welcome to My GitHub Pages Site ![Pages](https://img.shields.io/badge/GitHub-Pages-blue)
 
