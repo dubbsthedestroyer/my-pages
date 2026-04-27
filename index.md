@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-![Banner](https://github.com/dubbsthedestroyer/my-pages/blob/main/pugs.jpg)
+![Banner](pugs.jpg)
 
 # Welcome to My GitHub Pages Site ![Pages](https://img.shields.io/badge/GitHub-Pages-blue)
 
