@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-![Banner](https://pixabay.com/images/download/lisaamaarie-pug-4328170_1920.jpg))
+![Banner](https://pixabay.com/images/download/lisaamaarie-pug-4328170_1920.jpg)
 
 # Welcome to My GitHub Pages Site ![Pages](https://img.shields.io/badge/GitHub-Pages-blue)
 
