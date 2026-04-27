@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-![Banner](https://stockcake.com/i/pug-in-cityscape_630907_935339)
+![Banner](https://images.stockcake.com/public/c/2/0/c20678c5-0625-4538-ae69-84e1077f28e1_large/curious-black-cat-stockcake.jpg)
 
 # Welcome to My GitHub Pages Site ![Pages](https://img.shields.io/badge/GitHub-Pages-blue)
 
